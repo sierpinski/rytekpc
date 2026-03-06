@@ -1,6 +1,6 @@
-# RytekPC Static Website Rebuild
+# Rytek Static Website Rebuild
 
-Modern multi-page static site for RytekPC, built with semantic HTML, modern CSS, and lightweight JavaScript.
+Modern multi-page static site for Rytek, built with semantic HTML, modern CSS, and lightweight JavaScript.
 
 ## Folder Structure
 
