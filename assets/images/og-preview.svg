@@ -6,6 +6,6 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <text x="100" y="260" fill="#eaf0ff" font-size="82" font-family="Inter, Arial, sans-serif" font-weight="700">RytekPC</text>
+  <text x="100" y="260" fill="#eaf0ff" font-size="82" font-family="Inter, Arial, sans-serif" font-weight="700">Rytek</text>
   <text x="100" y="345" fill="#a9c5ee" font-size="42" font-family="Inter, Arial, sans-serif">Managed IT • Cybersecurity • Cloud</text>
 </svg>
